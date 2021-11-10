@@ -24,3 +24,5 @@ This project falls on the concepts of Convolutional Neural Networks and deep lea
 
 # Execution 🐉
 To run the code, type python drowsiness detection.py
+Model link: https://drive.google.com/file/d/1xgb4Nke5aeOUQXbCydYPg6WyJdrNcOrH/view?usp=sharing
+NOTE: This Model is a part of the running process as space is a constraint here it is uplaoded in the drive.
